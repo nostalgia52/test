@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # About
 
@@ -86,3 +87,6 @@ npm run local (访问本地后台系统，需运行node-elm后台系统)
 
 [GPL](https://github.com/bailicangdu/vue2-manage/blob/master/COPYING)
 
+=======
+# test
+>>>>>>> 8afe46b53bc0dbd2f1a1f7a7db9a8771bec9cae1
